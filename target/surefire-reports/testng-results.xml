@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[test continue]]>
+    </line>
+  </reporter-output>
+  <suite name="com.qait.GoogleSearchTest" duration-ms="16448" started-at="2019-02-26T12:03:32Z" finished-at="2019-02-26T12:03:49Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="16448" started-at="2019-02-26T12:03:32Z" finished-at="2019-02-26T12:03:49Z">
+      <class name="com.qait.GoogleSearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qait.GoogleSearchTest@60f82f98]" name="setUp" is-config="true" duration-ms="4796" started-at="2019-02-26T12:03:32Z" finished-at="2019-02-26T12:03:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test continue]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTitleOfQait()[pri:0, instance:com.qait.GoogleSearchTest@60f82f98]" name="testTitleOfQait" duration-ms="11504" started-at="2019-02-26T12:03:37Z" finished-at="2019-02-26T12:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTitleOfQait -->
+        <test-method status="PASS" signature="testUrlOfQait()[pri:0, instance:com.qait.GoogleSearchTest@60f82f98]" name="testUrlOfQait" duration-ms="9" started-at="2019-02-26T12:03:49Z" finished-at="2019-02-26T12:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUrlOfQait -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qait.GoogleSearchTest@60f82f98]" name="tearDown" is-config="true" duration-ms="123" started-at="2019-02-26T12:03:49Z" finished-at="2019-02-26T12:03:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qait.GoogleSearchTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.qait.GoogleSearchTest -->
+</testng-results>
